@@ -1,0 +1,3 @@
+Ejercicio 17 - BC5
+Crear un botón que, al pulsarlo, cambie el texto de una etiqueta en la interfaz.
+Al ejecutar la aplicación se abre una ventana de 300x120 píxeles con el título "Ejercicio 17 - Cambiar texto de etiqueta". Contiene una etiqueta con el texto "Texto inicial" y un botón "Cambiar texto". Al pulsar el botón se llama a setText() para actualizar el texto de la etiqueta a "¡Texto cambiado con éxito!". El layout está construido con un VBox con 15 píxeles de espaciado y 20 de padding.
